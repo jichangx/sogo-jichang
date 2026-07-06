@@ -106,6 +106,13 @@ sogo云支持 VLESS / Trojan / Shadowsocks 协议,兼容主流客户端。各平
 
 **sogo云有优惠码吗?**当前暂无公开优惠码,以官网活动页为准。全站在售码见[优惠码大全](https://www.jichangcha.com/blog/jichang-youhuima/)。
 
+## 🔗 友情链接
+
+- [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
+- [2026 机场推荐排行榜](https://github.com/jichangx/2026-jichangcha-tuijian) —— 全部机场总榜
+
+> 欢迎机场导航、科学上网测评类站点交换友链,通过 [Telegram @wanzuanjiedian](https://t.me/wanzuanjiedian) 或本仓库 Issues 联系。
+
 ## 📌 声明与更新
 
 - 本仓库与主站 [jichangcha.com](https://www.jichangcha.com/) 同步维护,价格与优惠码**每周复核**
